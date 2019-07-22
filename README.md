@@ -1,2 +1,2 @@
 # EDA-Projects
-My 1st projects of which exploratory data analysis was conducted.
+Projects of which exploratory data analysis was conducted.
