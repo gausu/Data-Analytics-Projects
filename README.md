@@ -1,1 +1,4 @@
-Data Analytics Projects
+Descriptive analytics
+Diagnostic analytics
+Prescriptive analytics
+Predictive analytics
